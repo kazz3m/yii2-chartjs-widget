@@ -104,7 +104,7 @@ class ChartJs extends Widget
                 'plugins' => $this->plugins
             ]
         );
-
+        // access from browser js with global var
         $js = ";window.chartJS_{$id} = new Chart($('#{$id}'),{$config});";
         $view->registerJs($js);
     }
