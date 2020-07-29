@@ -1,9 +1,10 @@
 {
-    "name": "2amigos/yii2-chartjs-widget",
+    "name": "kazz3m/yii2-chartjs-widget",
     "description": "ChartJs widget for Yii2.",
     "type": "yii2-extension",
     "keywords": [
         "2amigos",
+        "kazz3m",
         "yii",
         "yii2",
         "yii 2",
