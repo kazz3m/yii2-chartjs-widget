@@ -7,7 +7,7 @@
  * the LICENSE file that was distributed with this source code.
  */
 
-namespace dosamigos\chartjs;
+namespace kazz3m\chartjs;
 
 use yii\web\AssetBundle;
 
