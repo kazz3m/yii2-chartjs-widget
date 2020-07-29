@@ -21,12 +21,12 @@ set.
 Either run
 
 ```
-composer require 2amigos/yii2-chartjs-widget:~2.0
+composer require kazz3m/yii2-chartjs-widget:~2.0
 ```
 or add
 
 ```json
-"2amigos/yii2-chartjs-widget" : "~2.0"
+"kazz3m/yii2-chartjs-widget" : "~2.0"
 ```
 
 to the require section of your application's `composer.json` file.
